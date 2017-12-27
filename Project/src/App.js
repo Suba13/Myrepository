@@ -13,7 +13,7 @@ class App extends Component {
       <div className="App">  
         <Print  id="1"/>
         <Print  id="2"/>
-        <Print  id="3">this is my id</Print>
+        <Print  id="3">this is suba</Print>
         <Add />
         <Hi />
       <Value />
